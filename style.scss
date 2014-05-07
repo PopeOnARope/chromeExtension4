@@ -1,0 +1,29 @@
+*{
+	font-family: helvetica;
+	font-weight: 100;
+	color: #eee;
+	background-color: rgba(10,20,20,1);
+}
+input{
+	height: 2em;
+	width: 50%;
+}
+
+.container{
+	width: 500px;
+	height: 500px;
+
+}
+#newsfeed{
+	img{
+		width: 400px;
+		border: 10px solid rgba(40,60,60,1);
+		border-radius: 10px;
+	}
+	a{
+		text-decoration: none;
+	}
+	li{
+		list-style: none;
+	}
+}
